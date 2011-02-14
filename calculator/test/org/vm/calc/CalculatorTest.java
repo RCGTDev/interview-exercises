@@ -17,5 +17,5 @@ public class CalculatorTest {
     assertEquals(5, calculator.calculate("5"), 0);
   }
 
-  // Now try adding a null check, then addition with "5 + 10", etc
+  // Now try adding addition such as "5 + 5"
 }
