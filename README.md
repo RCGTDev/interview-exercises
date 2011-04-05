@@ -1,4 +1,4 @@
-# VolunteerMatch Pair Programming Interview Exercises
+# Pair Programming Interview Exercises
 
 ## Goal 
 
