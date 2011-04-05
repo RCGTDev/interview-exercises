@@ -1,3 +1,5 @@
+# Friendly URL Pair Programming Exercise
+
 The goal of this exercise is to use TDD to write a method/methods that can generate search engine friendly URL slugs
 such as "aunt-millies-and-co-inc" from strings such as "Aunt Millie's & Co., Inc" so you can build URL's like:
 
